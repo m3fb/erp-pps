@@ -4,24 +4,20 @@
 # controllers/Personal
 # models/Personal
 
-#	 /*
-#    !/controllers
-#    /controllers/*
-#    !/controllers/Personal*
 
 /*
 !/controllers
 /controllers/*
-!/controllers/Personal*
+!/controllers/Personalverwaltung
 
 !/models
 /models/*
-!/models/Personal*
+!/models/Personalverwaltung
 
 !/views
 /views/*
-!/views/personal/*
+!/views/personalverwaltung/*
 
-!/views/personal
-/views/personal/*
-!/views/personal/*
+!/views/personalverwaltung
+/views/personalverwaltung/*
+!/views/personalverwaltung/*

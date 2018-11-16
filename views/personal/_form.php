@@ -5,8 +5,7 @@ use yii\widgets\ActiveForm;
 
 /* @var $this yii\web\View */
 /* @var $model app\models\Personal */
-/* @var $form yii\widgets\ActiveForm*/
-
+/* @var $form yii\widgets\ActiveForm */
 ?>
 
 <div class="personal-form">

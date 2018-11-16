@@ -8,7 +8,6 @@ use app\models\Fagdetail;
 /* @var $this yii\web\View */
 /* @var $searchModel app\models\PersonalSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
-# Entwicklungsstatus
 
 $this->title = 'Personalliste';
 $this->params['breadcrumbs'][] = $this->title;
@@ -16,7 +15,7 @@ $this->params['breadcrumbs'][] = $this->title;
 $gridColumns = [
 					[
 						'attribute' => 'PERSNO',
-						'width'=>'200px',
+						'width'=>'100px',
 						'filter' => false,
 						'label' =>'PersNr.',
 					],
