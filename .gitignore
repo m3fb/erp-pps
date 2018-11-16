@@ -9,4 +9,4 @@
 #    /controllers/*
 #    !/controllers/Personal*
 
-/config
+/*
