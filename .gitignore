@@ -4,7 +4,9 @@
 # controllers/Personal
 # models/Personal
     
-    /*
-    !/controllers
-    /controllers/*
-    !/controllers/Personal*
+#	 /*
+#    !/controllers
+#    /controllers/*
+#    !/controllers/Personal*
+
+/config
