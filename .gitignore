@@ -12,7 +12,7 @@
 
 !/models
 /models/*
-!/models/Personalverwaltung
+!/models/Pe_work
 
 !/views
 /views/*
