@@ -6,7 +6,7 @@ use yii\widgets\ActiveForm;
 /* @var $this yii\web\View */
 /* @var $model app\models\Personal */
 /* @var $form yii\widgets\ActiveForm*/
-# Entwicklungsstatus
+
 ?>
 
 <div class="personal-form">
