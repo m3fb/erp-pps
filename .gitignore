@@ -8,11 +8,11 @@
 /*
 !/controllers
 /controllers/*
-!/controllers/Personalverwaltung
+!/controllers/Personalverwaltung*
 
 !/models
 /models/*
-!/models/Pe_work
+!/models/Pe_work.php
 
 !/views
 /views/*
