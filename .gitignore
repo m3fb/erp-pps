@@ -1,13 +1,21 @@
-# exclude everything 
+# exclude everything
 # except directory:
 # views/personal
 # controllers/Personal
 # models/Personal
-    
+
 #	 /*
 #    !/controllers
 #    /controllers/*
 #    !/controllers/Personal*
 
 /*
+!/controllers
+/controllers/*
 !/controllers/Personal*
+!/models
+/models/*
+!/models/Personal*
+!/views/
+/views/*
+!/views/personal/*
