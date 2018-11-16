@@ -12,4 +12,4 @@
     !/controllers/Personal*
     !/models
     /models/*
-    !/models/Personal*
+!/models/Personal*
