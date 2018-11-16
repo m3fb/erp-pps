@@ -1,5 +1,7 @@
 <?php
-/* @var $this yii\web\View */
+/* @var $this yii\web\View 
+* Hauptseite der Personalverwaltung
+*/
 ?>
 <h1>personalverwaltung/index</h1>
 
