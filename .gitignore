@@ -13,9 +13,15 @@
 !/controllers
 /controllers/*
 !/controllers/Personal*
+
 !/models
 /models/*
 !/models/Personal*
+
 !/views
 /views/*
+!/views/personal/*
+
+!/views/personal
+/views/personal/*
 !/views/personal/*
