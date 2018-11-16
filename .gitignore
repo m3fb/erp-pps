@@ -16,6 +16,6 @@
 !/models
 /models/*
 !/models/Personal*
-!/views/
+!/views
 /views/*
 !/views/personal/*
